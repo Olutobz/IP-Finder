@@ -1,7 +1,7 @@
 # IP-Finder
 
 
-A CLI tool for getting basic location details from an IP address
+A Command-line tool for getting basic location details from an IP address
 
 The MaxMind provides a free GeoLite database (IP Address to Location).
 
